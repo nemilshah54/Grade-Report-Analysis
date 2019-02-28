@@ -2,11 +2,7 @@
 
 //
 // Grade Analysis program in modern C++.
-//
 // << Nemil R Shah >>
-// U. of Illinois, Chicago
-// CS 341: Fall 2018
-// Project 01
 //
 
 #include <iostream>
